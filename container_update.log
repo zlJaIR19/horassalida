@@ -1,0 +1,637 @@
+2025-06-09 16:13:33,406 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 16:13:33,407 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 16:21:30,910 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 16:21:30,910 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 16:21:31,450 - ContainerUpdater - INFO - Encabezados encontrados en fila 2 (6/8 coincidencias)
+2025-06-09 16:21:31,813 - ContainerUpdater - INFO - Archivo principal cargado: 1899 registros
+2025-06-09 16:21:31,814 - ContainerUpdater - INFO - Procesando día: 22
+2025-06-09 16:21:31,814 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 22
+2025-06-09 16:21:31,856 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:31,900 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-09 16:21:31,902 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 11 entradas
+2025-06-09 16:21:31,920 - ContainerUpdater - INFO - Registros actualizados: 11
+2025-06-09 16:21:31,920 - ContainerUpdater - INFO - Día 22 completado: 11 actualizaciones
+2025-06-09 16:21:31,921 - ContainerUpdater - INFO - Procesando día: 23
+2025-06-09 16:21:31,921 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 23
+2025-06-09 16:21:31,965 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,009 - ContainerUpdater - INFO - Archivo exportación cargado: 13 registros válidos
+2025-06-09 16:21:32,010 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 13 entradas
+2025-06-09 16:21:32,027 - ContainerUpdater - INFO - Registros actualizados: 12
+2025-06-09 16:21:32,028 - ContainerUpdater - INFO - Día 23 completado: 12 actualizaciones
+2025-06-09 16:21:32,028 - ContainerUpdater - INFO - Procesando día: 24
+2025-06-09 16:21:32,028 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 24
+2025-06-09 16:21:32,071 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,116 - ContainerUpdater - INFO - Archivo exportación cargado: 10 registros válidos
+2025-06-09 16:21:32,117 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 10 entradas
+2025-06-09 16:21:32,136 - ContainerUpdater - INFO - Registros actualizados: 10
+2025-06-09 16:21:32,136 - ContainerUpdater - INFO - Día 24 completado: 10 actualizaciones
+2025-06-09 16:21:32,136 - ContainerUpdater - INFO - Procesando día: 25
+2025-06-09 16:21:32,137 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 25
+2025-06-09 16:21:32,199 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja 25: Worksheet named '25' not found
+2025-06-09 16:21:32,200 - ContainerUpdater - ERROR - Error procesando día 25: Worksheet named '25' not found
+2025-06-09 16:21:32,200 - ContainerUpdater - INFO - Procesando día: 26
+2025-06-09 16:21:32,200 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 26
+2025-06-09 16:21:32,246 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,291 - ContainerUpdater - INFO - Archivo exportación cargado: 26 registros válidos
+2025-06-09 16:21:32,293 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 26 entradas
+2025-06-09 16:21:32,310 - ContainerUpdater - INFO - Registros actualizados: 25
+2025-06-09 16:21:32,311 - ContainerUpdater - INFO - Día 26 completado: 25 actualizaciones
+2025-06-09 16:21:32,311 - ContainerUpdater - INFO - Procesando día: 27
+2025-06-09 16:21:32,311 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 27
+2025-06-09 16:21:32,354 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,398 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:21:32,399 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas
+2025-06-09 16:21:32,417 - ContainerUpdater - INFO - Registros actualizados: 19
+2025-06-09 16:21:32,417 - ContainerUpdater - INFO - Día 27 completado: 19 actualizaciones
+2025-06-09 16:21:32,417 - ContainerUpdater - INFO - Procesando día: 28
+2025-06-09 16:21:32,417 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 28
+2025-06-09 16:21:32,462 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,507 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-09 16:21:32,508 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 15 entradas
+2025-06-09 16:21:32,526 - ContainerUpdater - INFO - Registros actualizados: 16
+2025-06-09 16:21:32,527 - ContainerUpdater - INFO - Día 28 completado: 16 actualizaciones
+2025-06-09 16:21:32,527 - ContainerUpdater - INFO - Procesando día: 29
+2025-06-09 16:21:32,527 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 29
+2025-06-09 16:21:32,570 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,615 - ContainerUpdater - INFO - Archivo exportación cargado: 17 registros válidos
+2025-06-09 16:21:32,616 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 17 entradas
+2025-06-09 16:21:32,634 - ContainerUpdater - INFO - Registros actualizados: 36
+2025-06-09 16:21:32,634 - ContainerUpdater - INFO - Día 29 completado: 36 actualizaciones
+2025-06-09 16:21:32,634 - ContainerUpdater - INFO - Procesando día: 30
+2025-06-09 16:21:32,635 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 30
+2025-06-09 16:21:32,677 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,721 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:21:32,722 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas
+2025-06-09 16:21:32,739 - ContainerUpdater - INFO - Registros actualizados: 20
+2025-06-09 16:21:32,740 - ContainerUpdater - INFO - Día 30 completado: 20 actualizaciones
+2025-06-09 16:21:32,740 - ContainerUpdater - INFO - Procesando día: 31
+2025-06-09 16:21:32,740 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 31
+2025-06-09 16:21:32,783 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:21:32,828 - ContainerUpdater - INFO - Archivo exportación cargado: 21 registros válidos
+2025-06-09 16:21:32,829 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 21 entradas
+2025-06-09 16:21:32,846 - ContainerUpdater - INFO - Registros actualizados: 23
+2025-06-09 16:21:32,846 - ContainerUpdater - INFO - Día 31 completado: 23 actualizaciones
+2025-06-09 16:21:33,812 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_162132.xlsx
+2025-06-09 16:21:33,812 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 172
+2025-06-09 16:38:53,930 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 16:38:53,931 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 16:38:54,480 - ContainerUpdater - INFO - Encabezados encontrados en fila 2 (7/8 coincidencias)
+2025-06-09 16:38:54,850 - ContainerUpdater - INFO - Archivo principal cargado: 1842 registros
+2025-06-09 16:38:54,851 - ContainerUpdater - INFO - Procesando día: 22
+2025-06-09 16:38:54,851 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 22
+2025-06-09 16:38:54,895 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:54,942 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-09 16:38:54,943 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 11 entradas válidas
+2025-06-09 16:38:54,943 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:54,953 - ContainerUpdater - INFO - Registros candidatos para actualización: 1414
+2025-06-09 16:38:54,962 - ContainerUpdater - INFO - ✅ Actualizado fila 1565: Contenedor='ONEU3004372', Placa='ATI978', Hora='17:18:00'
+2025-06-09 16:38:54,962 - ContainerUpdater - INFO - ✅ Actualizado fila 1566: Contenedor='ONEU2665249', Placa='C3N997', Hora='19:14:00'
+2025-06-09 16:38:54,963 - ContainerUpdater - INFO - ✅ Actualizado fila 1567: Contenedor='TCNU2874485', Placa='A9M984', Hora='15:01:00'
+2025-06-09 16:38:54,963 - ContainerUpdater - INFO - ✅ Actualizado fila 1568: Contenedor='EGHU9498427', Placa='B2P978', Hora='17:59:00'
+2025-06-09 16:38:54,963 - ContainerUpdater - INFO - ✅ Actualizado fila 1569: Contenedor='TCNU2080886', Placa='F3E992', Hora='11:25:00'
+2025-06-09 16:38:54,967 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:54,968 - ContainerUpdater - INFO -   ✅ Registros actualizados: 11
+2025-06-09 16:38:54,968 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:54,968 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:54,968 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 502
+2025-06-09 16:38:54,969 - ContainerUpdater - INFO - Día 22 completado: 11 actualizaciones
+2025-06-09 16:38:54,969 - ContainerUpdater - INFO - Procesando día: 23
+2025-06-09 16:38:54,969 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 23
+2025-06-09 16:38:55,016 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,066 - ContainerUpdater - INFO - Archivo exportación cargado: 13 registros válidos
+2025-06-09 16:38:55,067 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 13 entradas válidas
+2025-06-09 16:38:55,067 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,074 - ContainerUpdater - INFO - Registros candidatos para actualización: 1403
+2025-06-09 16:38:55,083 - ContainerUpdater - INFO - ✅ Actualizado fila 1584: Contenedor='GLDU5243200', Placa='A2O986', Hora='18:35:00'
+2025-06-09 16:38:55,083 - ContainerUpdater - INFO - ✅ Actualizado fila 1585: Contenedor='TRHU2870349', Placa='D6X976', Hora='18:39:00'
+2025-06-09 16:38:55,084 - ContainerUpdater - INFO - ✅ Actualizado fila 1586: Contenedor='UACU4163873', Placa='B9D973', Hora='11:45:00'
+2025-06-09 16:38:55,084 - ContainerUpdater - INFO - ✅ Actualizado fila 1587: Contenedor='HAMU1067446', Placa='AKL992', Hora='13:24:00'
+2025-06-09 16:38:55,084 - ContainerUpdater - INFO - ✅ Actualizado fila 1588: Contenedor='EISU8332892', Placa='A3M988', Hora='13:33:00'
+2025-06-09 16:38:55,089 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,089 - ContainerUpdater - INFO -   ✅ Registros actualizados: 12
+2025-06-09 16:38:55,090 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,090 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,090 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 490
+2025-06-09 16:38:55,090 - ContainerUpdater - INFO - Día 23 completado: 12 actualizaciones
+2025-06-09 16:38:55,091 - ContainerUpdater - INFO - Procesando día: 24
+2025-06-09 16:38:55,091 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 24
+2025-06-09 16:38:55,135 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,181 - ContainerUpdater - INFO - Archivo exportación cargado: 10 registros válidos
+2025-06-09 16:38:55,182 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 10 entradas válidas
+2025-06-09 16:38:55,183 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,192 - ContainerUpdater - INFO - Registros candidatos para actualización: 1391
+2025-06-09 16:38:55,200 - ContainerUpdater - INFO - ✅ Actualizado fila 1602: Contenedor='CAAU2297155', Placa='ATI978', Hora='13:07:00'
+2025-06-09 16:38:55,200 - ContainerUpdater - INFO - ✅ Actualizado fila 1603: Contenedor='HLXU1049239', Placa='AFZ984', Hora='13:25:00'
+2025-06-09 16:38:55,201 - ContainerUpdater - INFO - ✅ Actualizado fila 1604: Contenedor='FCIU4665426', Placa='T9U974', Hora='14:23:00'
+2025-06-09 16:38:55,201 - ContainerUpdater - INFO - ✅ Actualizado fila 1605: Contenedor='FCIU6319103', Placa='A6B981', Hora='15:50:00'
+2025-06-09 16:38:55,201 - ContainerUpdater - INFO - ✅ Actualizado fila 1606: Contenedor='HLBU3070794', Placa='C4J997', Hora='15:42:00'
+2025-06-09 16:38:55,206 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,206 - ContainerUpdater - INFO -   ✅ Registros actualizados: 10
+2025-06-09 16:38:55,206 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,206 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,206 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 480
+2025-06-09 16:38:55,207 - ContainerUpdater - INFO - Día 24 completado: 10 actualizaciones
+2025-06-09 16:38:55,207 - ContainerUpdater - INFO - Procesando día: 25
+2025-06-09 16:38:55,207 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 25
+2025-06-09 16:38:55,282 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja 25: Worksheet named '25' not found
+2025-06-09 16:38:55,282 - ContainerUpdater - ERROR - Error procesando día 25: Worksheet named '25' not found
+2025-06-09 16:38:55,282 - ContainerUpdater - INFO - Procesando día: 26
+2025-06-09 16:38:55,283 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 26
+2025-06-09 16:38:55,330 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,377 - ContainerUpdater - INFO - Archivo exportación cargado: 26 registros válidos
+2025-06-09 16:38:55,378 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 26 entradas válidas
+2025-06-09 16:38:55,379 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,386 - ContainerUpdater - INFO - Registros candidatos para actualización: 1381
+2025-06-09 16:38:55,394 - ContainerUpdater - INFO - ✅ Actualizado fila 1614: Contenedor='KKTU8003930', Placa='T5H989', Hora='18:17:00'
+2025-06-09 16:38:55,395 - ContainerUpdater - INFO - ✅ Actualizado fila 1615: Contenedor='SEGU1979844', Placa='A2O986', Hora='16:54:00'
+2025-06-09 16:38:55,395 - ContainerUpdater - INFO - ✅ Actualizado fila 1617: Contenedor='MSDU2669510', Placa='C7G985', Hora='13:16:00'
+2025-06-09 16:38:55,396 - ContainerUpdater - INFO - ✅ Actualizado fila 1618: Contenedor='MSNU2616654', Placa='AXJ992', Hora='13:22:00'
+2025-06-09 16:38:55,396 - ContainerUpdater - INFO - ✅ Actualizado fila 1619: Contenedor='MSMU3449590', Placa='AHV995', Hora='13:27:00'
+2025-06-09 16:38:55,400 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,400 - ContainerUpdater - INFO -   ✅ Registros actualizados: 25
+2025-06-09 16:38:55,400 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,400 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,401 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 455
+2025-06-09 16:38:55,401 - ContainerUpdater - INFO - Día 26 completado: 25 actualizaciones
+2025-06-09 16:38:55,401 - ContainerUpdater - INFO - Procesando día: 27
+2025-06-09 16:38:55,401 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 27
+2025-06-09 16:38:55,445 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,495 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:38:55,496 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas válidas
+2025-06-09 16:38:55,497 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,504 - ContainerUpdater - INFO - Registros candidatos para actualización: 1356
+2025-06-09 16:38:55,513 - ContainerUpdater - INFO - ✅ Actualizado fila 1651: Contenedor='TRHU3783399', Placa='B9L983', Hora='16:09:00'
+2025-06-09 16:38:55,514 - ContainerUpdater - INFO - ✅ Actualizado fila 1652: Contenedor='TRHU3824420', Placa='AAR975', Hora='18:06:00'
+2025-06-09 16:38:55,514 - ContainerUpdater - INFO - ✅ Actualizado fila 1653: Contenedor='NYKU3698907', Placa='B9G976', Hora='16:28:00'
+2025-06-09 16:38:55,514 - ContainerUpdater - INFO - ✅ Actualizado fila 1654: Contenedor='TRHU3824420', Placa='AAR975', Hora='18:06:00'
+2025-06-09 16:38:55,515 - ContainerUpdater - INFO - ✅ Actualizado fila 1655: Contenedor='BEAU2206718', Placa='A3M988', Hora='17:41:00'
+2025-06-09 16:38:55,518 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,519 - ContainerUpdater - INFO -   ✅ Registros actualizados: 19
+2025-06-09 16:38:55,519 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,519 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,519 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 436
+2025-06-09 16:38:55,520 - ContainerUpdater - INFO - Día 27 completado: 19 actualizaciones
+2025-06-09 16:38:55,520 - ContainerUpdater - INFO - Procesando día: 28
+2025-06-09 16:38:55,520 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 28
+2025-06-09 16:38:55,567 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,613 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-09 16:38:55,615 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 15 entradas válidas
+2025-06-09 16:38:55,615 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,625 - ContainerUpdater - INFO - Registros candidatos para actualización: 1337
+2025-06-09 16:38:55,632 - ContainerUpdater - INFO - ✅ Actualizado fila 1674: Contenedor='FCIU4629120', Placa='B9L983', Hora='15:25:00'
+2025-06-09 16:38:55,633 - ContainerUpdater - INFO - ✅ Actualizado fila 1676: Contenedor='FCIU4629120', Placa='B9L983', Hora='15:25:00'
+2025-06-09 16:38:55,633 - ContainerUpdater - INFO - ✅ Actualizado fila 1677: Contenedor='TGHU1569302', Placa='ADG992', Hora='18:44:00'
+2025-06-09 16:38:55,633 - ContainerUpdater - INFO - ✅ Actualizado fila 1679: Contenedor='OOCU0420982', Placa='AKM999', Hora='17:19:00'
+2025-06-09 16:38:55,634 - ContainerUpdater - INFO - ✅ Actualizado fila 1680: Contenedor='OOCU0586320', Placa='BMX979', Hora='17:29:00'
+2025-06-09 16:38:55,638 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,638 - ContainerUpdater - INFO -   ✅ Registros actualizados: 16
+2025-06-09 16:38:55,638 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,638 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,638 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 420
+2025-06-09 16:38:55,639 - ContainerUpdater - INFO - Día 28 completado: 16 actualizaciones
+2025-06-09 16:38:55,639 - ContainerUpdater - INFO - Procesando día: 29
+2025-06-09 16:38:55,639 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 29
+2025-06-09 16:38:55,685 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,731 - ContainerUpdater - INFO - Archivo exportación cargado: 17 registros válidos
+2025-06-09 16:38:55,732 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 17 entradas válidas
+2025-06-09 16:38:55,732 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,740 - ContainerUpdater - INFO - Registros candidatos para actualización: 1321
+2025-06-09 16:38:55,749 - ContainerUpdater - INFO - ✅ Actualizado fila 1696: Contenedor='TRHU1031664', Placa='A4E988', Hora='16:55:00'
+2025-06-09 16:38:55,750 - ContainerUpdater - INFO - ✅ Actualizado fila 1697: Contenedor='TEMU2384718', Placa='T5H989', Hora='18:51:00'
+2025-06-09 16:38:55,750 - ContainerUpdater - INFO - ✅ Actualizado fila 1698: Contenedor='TRHU1031664', Placa='A4E988', Hora='16:55:00'
+2025-06-09 16:38:55,750 - ContainerUpdater - INFO - ✅ Actualizado fila 1699: Contenedor='TEMU2384718', Placa='T5H989', Hora='18:51:00'
+2025-06-09 16:38:55,751 - ContainerUpdater - INFO - ✅ Actualizado fila 1700: Contenedor='MSMU3286825', Placa='AXJ992', Hora='11:59:00'
+2025-06-09 16:38:55,755 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,756 - ContainerUpdater - INFO -   ✅ Registros actualizados: 36
+2025-06-09 16:38:55,756 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,756 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,756 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 384
+2025-06-09 16:38:55,757 - ContainerUpdater - INFO - Día 29 completado: 36 actualizaciones
+2025-06-09 16:38:55,757 - ContainerUpdater - INFO - Procesando día: 30
+2025-06-09 16:38:55,757 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 30
+2025-06-09 16:38:55,802 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,849 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:38:55,851 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas válidas
+2025-06-09 16:38:55,851 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,858 - ContainerUpdater - INFO - Registros candidatos para actualización: 1285
+2025-06-09 16:38:55,867 - ContainerUpdater - INFO - ✅ Actualizado fila 1752: Contenedor='RFSU3027907', Placa='F5U988', Hora='19:17:00'
+2025-06-09 16:38:55,868 - ContainerUpdater - INFO - ✅ Actualizado fila 1753: Contenedor='HLBU3889149', Placa='B2P978', Hora='19:23:00'
+2025-06-09 16:38:55,868 - ContainerUpdater - INFO - ✅ Actualizado fila 1754: Contenedor='TEMU2290394', Placa='V7I987', Hora='18:58:00'
+2025-06-09 16:38:55,869 - ContainerUpdater - INFO - ✅ Actualizado fila 1755: Contenedor='TEMU5572262', Placa='F8P975', Hora='17:26:00'
+2025-06-09 16:38:55,869 - ContainerUpdater - INFO - ✅ Actualizado fila 1756: Contenedor='TEMU2290394', Placa='V7I987', Hora='18:58:00'
+2025-06-09 16:38:55,872 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,873 - ContainerUpdater - INFO -   ✅ Registros actualizados: 20
+2025-06-09 16:38:55,873 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,873 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,873 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 364
+2025-06-09 16:38:55,874 - ContainerUpdater - INFO - Día 30 completado: 20 actualizaciones
+2025-06-09 16:38:55,874 - ContainerUpdater - INFO - Procesando día: 31
+2025-06-09 16:38:55,874 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 31
+2025-06-09 16:38:55,920 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:38:55,968 - ContainerUpdater - INFO - Archivo exportación cargado: 21 registros válidos
+2025-06-09 16:38:55,970 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 21 entradas válidas
+2025-06-09 16:38:55,970 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:38:55,977 - ContainerUpdater - INFO - Registros candidatos para actualización: 1265
+2025-06-09 16:38:55,986 - ContainerUpdater - INFO - ✅ Actualizado fila 1781: Contenedor='TEMU5892163', Placa='A2O986', Hora='14:57:00'
+2025-06-09 16:38:55,987 - ContainerUpdater - INFO - ✅ Actualizado fila 1782: Contenedor='TEMU1032570', Placa='A4E988', Hora='17:46:00'
+2025-06-09 16:38:55,987 - ContainerUpdater - INFO - ✅ Actualizado fila 1783: Contenedor='TEMU5892163', Placa='A2O986', Hora='14:57:00'
+2025-06-09 16:38:55,988 - ContainerUpdater - INFO - ✅ Actualizado fila 1784: Contenedor='APZU3646333', Placa='B9C977', Hora='13:53:00'
+2025-06-09 16:38:55,988 - ContainerUpdater - INFO - ✅ Actualizado fila 1785: Contenedor='TEMU1032570', Placa='A4E988', Hora='17:46:00'
+2025-06-09 16:38:55,991 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:38:55,991 - ContainerUpdater - INFO -   ✅ Registros actualizados: 23
+2025-06-09 16:38:55,991 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:38:55,991 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:38:55,992 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 341
+2025-06-09 16:38:55,992 - ContainerUpdater - INFO - Día 31 completado: 23 actualizaciones
+2025-06-09 16:38:57,012 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_163855.xlsx
+2025-06-09 16:38:57,013 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 172
+2025-06-09 16:43:30,971 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 16:43:30,972 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 16:43:31,499 - ContainerUpdater - INFO - Encabezados encontrados en fila 2 (7/8 coincidencias)
+2025-06-09 16:43:31,851 - ContainerUpdater - INFO - Archivo principal cargado: 1842 registros
+2025-06-09 16:43:31,851 - ContainerUpdater - INFO - Procesando día: 22
+2025-06-09 16:43:31,851 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 22
+2025-06-09 16:43:31,896 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:31,940 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-09 16:43:31,942 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 11 entradas válidas
+2025-06-09 16:43:31,942 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:31,947 - ContainerUpdater - INFO - Registros candidatos para actualización: 1414
+2025-06-09 16:43:31,956 - ContainerUpdater - INFO - ✅ Actualizado fila 1565: Contenedor='ONEU3004372' -> 'ONEU3004372', Placa='ATI978' -> 'ATI978', Hora='17:18:00'
+2025-06-09 16:43:31,956 - ContainerUpdater - INFO - ✅ Actualizado fila 1566: Contenedor='ONEU2665249' -> 'ONEU2665249', Placa='C3N997' -> 'C3N997', Hora='19:14:00'
+2025-06-09 16:43:31,957 - ContainerUpdater - INFO - ✅ Actualizado fila 1567: Contenedor='TCNU2874485' -> 'TCNU2874485', Placa='A9M984' -> 'A9M984', Hora='15:01:00'
+2025-06-09 16:43:31,957 - ContainerUpdater - INFO - ✅ Actualizado fila 1568: Contenedor='EGHU949842-7' -> 'EGHU9498427', Placa='B2P978' -> 'B2P978', Hora='17:59:00'
+2025-06-09 16:43:31,958 - ContainerUpdater - INFO - ✅ Actualizado fila 1569: Contenedor='TCNU208088-6' -> 'TCNU2080886', Placa='F3E992' -> 'F3E992', Hora='11:25:00'
+2025-06-09 16:43:31,961 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 16:43:31,962 - ContainerUpdater - INFO -   ✅ Registros actualizados: 11
+2025-06-09 16:43:31,962 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 16:43:31,962 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 16:43:31,962 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 502
+2025-06-09 16:43:31,962 - ContainerUpdater - INFO - Día 22 completado: 11 actualizaciones
+2025-06-09 16:43:31,963 - ContainerUpdater - INFO - Procesando día: 23
+2025-06-09 16:43:31,963 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 23
+2025-06-09 16:43:32,008 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,052 - ContainerUpdater - INFO - Archivo exportación cargado: 13 registros válidos
+2025-06-09 16:43:32,054 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 13 entradas válidas
+2025-06-09 16:43:32,054 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,056 - ContainerUpdater - ERROR - Error procesando día 23: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,056 - ContainerUpdater - INFO - Procesando día: 24
+2025-06-09 16:43:32,056 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 24
+2025-06-09 16:43:32,098 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,142 - ContainerUpdater - INFO - Archivo exportación cargado: 10 registros válidos
+2025-06-09 16:43:32,143 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 10 entradas válidas
+2025-06-09 16:43:32,144 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,145 - ContainerUpdater - ERROR - Error procesando día 24: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,146 - ContainerUpdater - INFO - Procesando día: 25
+2025-06-09 16:43:32,146 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 25
+2025-06-09 16:43:32,209 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja 25: Worksheet named '25' not found
+2025-06-09 16:43:32,209 - ContainerUpdater - ERROR - Error procesando día 25: Worksheet named '25' not found
+2025-06-09 16:43:32,209 - ContainerUpdater - INFO - Procesando día: 26
+2025-06-09 16:43:32,210 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 26
+2025-06-09 16:43:32,259 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,304 - ContainerUpdater - INFO - Archivo exportación cargado: 26 registros válidos
+2025-06-09 16:43:32,306 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 26 entradas válidas
+2025-06-09 16:43:32,306 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,307 - ContainerUpdater - ERROR - Error procesando día 26: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,308 - ContainerUpdater - INFO - Procesando día: 27
+2025-06-09 16:43:32,308 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 27
+2025-06-09 16:43:32,350 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,398 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:43:32,399 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas válidas
+2025-06-09 16:43:32,399 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,401 - ContainerUpdater - ERROR - Error procesando día 27: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,401 - ContainerUpdater - INFO - Procesando día: 28
+2025-06-09 16:43:32,401 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 28
+2025-06-09 16:43:32,444 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,488 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-09 16:43:32,490 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 15 entradas válidas
+2025-06-09 16:43:32,490 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,492 - ContainerUpdater - ERROR - Error procesando día 28: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,492 - ContainerUpdater - INFO - Procesando día: 29
+2025-06-09 16:43:32,492 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 29
+2025-06-09 16:43:32,535 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,580 - ContainerUpdater - INFO - Archivo exportación cargado: 17 registros válidos
+2025-06-09 16:43:32,581 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 17 entradas válidas
+2025-06-09 16:43:32,581 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,583 - ContainerUpdater - ERROR - Error procesando día 29: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,583 - ContainerUpdater - INFO - Procesando día: 30
+2025-06-09 16:43:32,583 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 30
+2025-06-09 16:43:32,626 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,669 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 16:43:32,671 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 18 entradas válidas
+2025-06-09 16:43:32,671 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,673 - ContainerUpdater - ERROR - Error procesando día 30: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:32,673 - ContainerUpdater - INFO - Procesando día: 31
+2025-06-09 16:43:32,673 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 31
+2025-06-09 16:43:32,717 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 16:43:32,761 - ContainerUpdater - INFO - Archivo exportación cargado: 21 registros válidos
+2025-06-09 16:43:32,763 - ContainerUpdater - INFO - Diccionario de búsqueda creado: 21 entradas válidas
+2025-06-09 16:43:32,763 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 16:43:32,764 - ContainerUpdater - ERROR - Error procesando día 31: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 16:43:33,690 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_164332.xlsx
+2025-06-09 16:43:33,690 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 11
+2025-06-09 17:00:14,743 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 17:00:14,743 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 17:00:15,278 - ContainerUpdater - INFO - Archivo cargado con 1843 registros y 38 columnas
+2025-06-09 17:00:15,279 - ContainerUpdater - WARNING - No se encontró columna container. Patrones: ['Contenedor', 'CONTENEDOR', 'Nro Contenedor']
+2025-06-09 17:00:15,279 - ContainerUpdater - WARNING - No se encontró columna plate. Patrones: ['Placa 2', 'Placa', 'PLACA 2', 'PLACA']
+2025-06-09 17:00:15,280 - ContainerUpdater - WARNING - No se encontró columna time. Patrones: ['Hr salida QP', 'HORA SALIDA QP', 'HORA_SALIDA_QP']
+2025-06-09 17:00:15,280 - ContainerUpdater - WARNING - No se encontró columna date. Patrones: ['Fecha', 'FECHA', 'Date']
+2025-06-09 17:03:15,484 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 17:03:15,485 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 17:03:16,014 - ContainerUpdater - INFO - Archivo cargado con 1842 registros y 38 columnas
+2025-06-09 17:03:16,020 - ContainerUpdater - INFO - Archivo principal cargado: 1842 registros
+2025-06-09 17:03:16,021 - ContainerUpdater - INFO - Procesando día: 22
+2025-06-09 17:03:16,021 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 22
+2025-06-09 17:03:16,070 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,115 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-09 17:03:16,116 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,116 - ContainerUpdater - INFO -   - Contenedor+Placa: 11 entradas
+2025-06-09 17:03:16,116 - ContainerUpdater - INFO -   - Solo Placa: 11 entradas
+2025-06-09 17:03:16,117 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,122 - ContainerUpdater - INFO - Registros candidatos para actualización: 1414
+2025-06-09 17:03:16,124 - ContainerUpdater - INFO - ✅ Actualizado fila 47: Contenedor='nan' -> '', Placa='B8U978' -> 'B8U978', Hora='15:22:00' (match: solo placa)
+2025-06-09 17:03:16,124 - ContainerUpdater - INFO - ✅ Actualizado fila 48: Contenedor='nan' -> '', Placa='F5U988' -> 'F5U988', Hora='16:32:00' (match: solo placa)
+2025-06-09 17:03:16,125 - ContainerUpdater - INFO - ✅ Actualizado fila 49: Contenedor='nan' -> '', Placa='B2P978' -> 'B2P978', Hora='17:59:00' (match: solo placa)
+2025-06-09 17:03:16,125 - ContainerUpdater - INFO - ✅ Actualizado fila 68: Contenedor='nan' -> '', Placa='B2P978' -> 'B2P978', Hora='17:59:00' (match: solo placa)
+2025-06-09 17:03:16,125 - ContainerUpdater - INFO - ✅ Actualizado fila 69: Contenedor='nan' -> '', Placa='A3M988' -> 'A3M988', Hora='14:05:00' (match: solo placa)
+2025-06-09 17:03:16,126 - ContainerUpdater - INFO - ✅ Actualizado fila 92: Contenedor='nan' -> '', Placa='F5U988' -> 'F5U988', Hora='16:32:00' (match: solo placa)
+2025-06-09 17:03:16,126 - ContainerUpdater - INFO - ✅ Actualizado fila 111: Contenedor='nan' -> '', Placa='B2P978' -> 'B2P978', Hora='17:59:00' (match: solo placa)
+2025-06-09 17:03:16,127 - ContainerUpdater - INFO - ✅ Actualizado fila 143: Contenedor='nan' -> '', Placa='A3M988' -> 'A3M988', Hora='14:05:00' (match: solo placa)
+2025-06-09 17:03:16,127 - ContainerUpdater - INFO - ✅ Actualizado fila 150: Contenedor='nan' -> '', Placa='A9M983' -> 'A9M983', Hora='12:10:00' (match: solo placa)
+2025-06-09 17:03:16,128 - ContainerUpdater - INFO - ✅ Actualizado fila 151: Contenedor='nan' -> '', Placa='ATI978' -> 'ATI978', Hora='17:18:00' (match: solo placa)
+2025-06-09 17:03:16,143 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN:
+2025-06-09 17:03:16,144 - ContainerUpdater - INFO -   ✅ Total registros actualizados: 159
+2025-06-09 17:03:16,144 - ContainerUpdater - INFO -     - Por contenedor+placa: 11
+2025-06-09 17:03:16,144 - ContainerUpdater - INFO -     - Solo por placa: 148
+2025-06-09 17:03:16,144 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 4
+2025-06-09 17:03:16,145 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 1251
+2025-06-09 17:03:16,145 - ContainerUpdater - INFO - Día 22 completado: 159 actualizaciones
+2025-06-09 17:03:16,145 - ContainerUpdater - INFO - Procesando día: 23
+2025-06-09 17:03:16,145 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 23
+2025-06-09 17:03:16,189 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,237 - ContainerUpdater - INFO - Archivo exportación cargado: 13 registros válidos
+2025-06-09 17:03:16,239 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,239 - ContainerUpdater - INFO -   - Contenedor+Placa: 13 entradas
+2025-06-09 17:03:16,240 - ContainerUpdater - INFO -   - Solo Placa: 13 entradas
+2025-06-09 17:03:16,240 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,241 - ContainerUpdater - ERROR - Error procesando día 23: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,241 - ContainerUpdater - INFO - Procesando día: 24
+2025-06-09 17:03:16,242 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 24
+2025-06-09 17:03:16,299 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,355 - ContainerUpdater - INFO - Archivo exportación cargado: 10 registros válidos
+2025-06-09 17:03:16,356 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,356 - ContainerUpdater - INFO -   - Contenedor+Placa: 10 entradas
+2025-06-09 17:03:16,356 - ContainerUpdater - INFO -   - Solo Placa: 10 entradas
+2025-06-09 17:03:16,356 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,357 - ContainerUpdater - ERROR - Error procesando día 24: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,357 - ContainerUpdater - INFO - Procesando día: 25
+2025-06-09 17:03:16,358 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 25
+2025-06-09 17:03:16,399 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja 25: Worksheet named '25' not found
+2025-06-09 17:03:16,400 - ContainerUpdater - ERROR - Error procesando día 25: Worksheet named '25' not found
+2025-06-09 17:03:16,400 - ContainerUpdater - INFO - Procesando día: 26
+2025-06-09 17:03:16,400 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 26
+2025-06-09 17:03:16,465 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,519 - ContainerUpdater - INFO - Archivo exportación cargado: 26 registros válidos
+2025-06-09 17:03:16,521 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,521 - ContainerUpdater - INFO -   - Contenedor+Placa: 26 entradas
+2025-06-09 17:03:16,521 - ContainerUpdater - INFO -   - Solo Placa: 22 entradas
+2025-06-09 17:03:16,521 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,523 - ContainerUpdater - ERROR - Error procesando día 26: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,523 - ContainerUpdater - INFO - Procesando día: 27
+2025-06-09 17:03:16,523 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 27
+2025-06-09 17:03:16,602 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,654 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 17:03:16,655 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,656 - ContainerUpdater - INFO -   - Contenedor+Placa: 18 entradas
+2025-06-09 17:03:16,656 - ContainerUpdater - INFO -   - Solo Placa: 16 entradas
+2025-06-09 17:03:16,656 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,657 - ContainerUpdater - ERROR - Error procesando día 27: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,658 - ContainerUpdater - INFO - Procesando día: 28
+2025-06-09 17:03:16,658 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 28
+2025-06-09 17:03:16,702 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,748 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-09 17:03:16,750 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,750 - ContainerUpdater - INFO -   - Contenedor+Placa: 15 entradas
+2025-06-09 17:03:16,750 - ContainerUpdater - INFO -   - Solo Placa: 15 entradas
+2025-06-09 17:03:16,750 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,752 - ContainerUpdater - ERROR - Error procesando día 28: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,752 - ContainerUpdater - INFO - Procesando día: 29
+2025-06-09 17:03:16,752 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 29
+2025-06-09 17:03:16,797 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,841 - ContainerUpdater - INFO - Archivo exportación cargado: 17 registros válidos
+2025-06-09 17:03:16,842 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,843 - ContainerUpdater - INFO -   - Contenedor+Placa: 17 entradas
+2025-06-09 17:03:16,843 - ContainerUpdater - INFO -   - Solo Placa: 17 entradas
+2025-06-09 17:03:16,843 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,845 - ContainerUpdater - ERROR - Error procesando día 29: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,845 - ContainerUpdater - INFO - Procesando día: 30
+2025-06-09 17:03:16,845 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 30
+2025-06-09 17:03:16,889 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:16,937 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 17:03:16,939 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:16,939 - ContainerUpdater - INFO -   - Contenedor+Placa: 18 entradas
+2025-06-09 17:03:16,939 - ContainerUpdater - INFO -   - Solo Placa: 16 entradas
+2025-06-09 17:03:16,939 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:16,940 - ContainerUpdater - ERROR - Error procesando día 30: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:16,941 - ContainerUpdater - INFO - Procesando día: 31
+2025-06-09 17:03:16,941 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 31
+2025-06-09 17:03:16,985 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:03:17,030 - ContainerUpdater - INFO - Archivo exportación cargado: 21 registros válidos
+2025-06-09 17:03:17,032 - ContainerUpdater - INFO - Diccionarios de búsqueda creados:
+2025-06-09 17:03:17,032 - ContainerUpdater - INFO -   - Contenedor+Placa: 21 entradas
+2025-06-09 17:03:17,032 - ContainerUpdater - INFO -   - Solo Placa: 21 entradas
+2025-06-09 17:03:17,033 - ContainerUpdater - INFO - Registros omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:03:17,034 - ContainerUpdater - ERROR - Error procesando día 31: No se encontró mapeo de columnas en el DataFrame
+2025-06-09 17:03:17,980 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_170317.xlsx
+2025-06-09 17:03:17,980 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 159
+2025-06-09 17:23:58,858 - ContainerUpdater - INFO - Iniciando procesamiento de 10 días: ['22', '23', '24', '25', '26', '27', '28', '29', '30', '31']
+2025-06-09 17:23:58,858 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-09 17:23:59,394 - ContainerUpdater - INFO - Archivo cargado con 1842 registros y 38 columnas
+2025-06-09 17:23:59,399 - ContainerUpdater - INFO - Archivo principal cargado: 1842 registros
+2025-06-09 17:23:59,399 - ContainerUpdater - INFO - Procesando día: 22
+2025-06-09 17:23:59,400 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-22 (de SALIDA_2025_05.xlsx, hoja 22)
+2025-06-09 17:23:59,400 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 22
+2025-06-09 17:23:59,444 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:23:59,488 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-09 17:23:59,490 - ContainerUpdater - INFO - Diccionario creado para 2025-05-22: 11 entradas válidas
+2025-06-09 17:23:59,491 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:23:59,494 - ContainerUpdater - INFO - Registros candidatos para actualización: 1414
+2025-06-09 17:23:59,502 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1565: Contenedor='ONEU3004372' -> 'ONEU3004372', Placa='ATI978' -> 'ATI978', Fecha=2025-05-22, Hora='17:18:00'
+2025-06-09 17:23:59,503 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1566: Contenedor='ONEU2665249' -> 'ONEU2665249', Placa='C3N997' -> 'C3N997', Fecha=2025-05-22, Hora='19:14:00'
+2025-06-09 17:23:59,503 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1567: Contenedor='TCNU2874485' -> 'TCNU2874485', Placa='A9M984' -> 'A9M984', Fecha=2025-05-22, Hora='15:01:00'
+2025-06-09 17:23:59,503 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1568: Contenedor='EGHU949842-7' -> 'EGHU9498427', Placa='B2P978' -> 'B2P978', Fecha=2025-05-22, Hora='17:59:00'
+2025-06-09 17:23:59,504 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1569: Contenedor='TCNU208088-6' -> 'TCNU2080886', Placa='F3E992' -> 'F3E992', Fecha=2025-05-22, Hora='11:25:00'
+2025-06-09 17:23:59,509 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-22:
+2025-06-09 17:23:59,509 - ContainerUpdater - INFO -   ✅ Registros actualizados: 11
+2025-06-09 17:23:59,509 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:23:59,509 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:23:59,509 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 502
+2025-06-09 17:23:59,510 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-09 17:23:59,510 - ContainerUpdater - INFO - Día 22 completado: 11 actualizaciones
+2025-06-09 17:23:59,510 - ContainerUpdater - INFO - Procesando día: 23
+2025-06-09 17:23:59,510 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-23 (de SALIDA_2025_05.xlsx, hoja 23)
+2025-06-09 17:23:59,510 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 23
+2025-06-09 17:23:59,553 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:23:59,598 - ContainerUpdater - INFO - Archivo exportación cargado: 13 registros válidos
+2025-06-09 17:23:59,602 - ContainerUpdater - INFO - Diccionario creado para 2025-05-23: 13 entradas válidas
+2025-06-09 17:23:59,602 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:23:59,605 - ContainerUpdater - INFO - Registros candidatos para actualización: 1403
+2025-06-09 17:23:59,613 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1584: Contenedor='GLDU5243200' -> 'GLDU5243200', Placa='A2O986' -> 'A2O986', Fecha=2025-05-23, Hora='18:35:00'
+2025-06-09 17:23:59,614 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1585: Contenedor='TRHU287034-9' -> 'TRHU2870349', Placa='D6X976' -> 'D6X976', Fecha=2025-05-23, Hora='18:39:00'
+2025-06-09 17:23:59,614 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1586: Contenedor='UACU4163873' -> 'UACU4163873', Placa='B9D973' -> 'B9D973', Fecha=2025-05-23, Hora='11:45:00'
+2025-06-09 17:23:59,614 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1587: Contenedor='HAMU106744-6' -> 'HAMU1067446', Placa='AKL992' -> 'AKL992', Fecha=2025-05-23, Hora='13:24:00'
+2025-06-09 17:23:59,615 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1588: Contenedor='EISU833289-2' -> 'EISU8332892', Placa='A3M988' -> 'A3M988', Fecha=2025-05-23, Hora='13:33:00'
+2025-06-09 17:23:59,619 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-23:
+2025-06-09 17:23:59,619 - ContainerUpdater - INFO -   ✅ Registros actualizados: 12
+2025-06-09 17:23:59,619 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:23:59,619 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:23:59,620 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 489
+2025-06-09 17:23:59,620 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 1
+2025-06-09 17:23:59,620 - ContainerUpdater - INFO - Día 23 completado: 12 actualizaciones
+2025-06-09 17:23:59,620 - ContainerUpdater - INFO - Procesando día: 24
+2025-06-09 17:23:59,620 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-24 (de SALIDA_2025_05.xlsx, hoja 24)
+2025-06-09 17:23:59,621 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 24
+2025-06-09 17:23:59,663 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:23:59,707 - ContainerUpdater - INFO - Archivo exportación cargado: 10 registros válidos
+2025-06-09 17:23:59,709 - ContainerUpdater - INFO - Diccionario creado para 2025-05-24: 10 entradas válidas
+2025-06-09 17:23:59,709 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:23:59,712 - ContainerUpdater - INFO - Registros candidatos para actualización: 1391
+2025-06-09 17:23:59,720 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1602: Contenedor='CAAU229715-5' -> 'CAAU2297155', Placa='ATI978' -> 'ATI978', Fecha=2025-05-24, Hora='13:07:00'
+2025-06-09 17:23:59,721 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1603: Contenedor='HLXU104923-9' -> 'HLXU1049239', Placa='AFZ984' -> 'AFZ984', Fecha=2025-05-24, Hora='13:25:00'
+2025-06-09 17:23:59,722 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1604: Contenedor='FCIU466542-6' -> 'FCIU4665426', Placa='T9U974' -> 'T9U974', Fecha=2025-05-24, Hora='14:23:00'
+2025-06-09 17:23:59,722 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1605: Contenedor='FCIU631910-3' -> 'FCIU6319103', Placa='A6B981' -> 'A6B981', Fecha=2025-05-24, Hora='15:50:00'
+2025-06-09 17:23:59,723 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1606: Contenedor='HLBU307079-4' -> 'HLBU3070794', Placa='C4J997' -> 'C4J997', Fecha=2025-05-24, Hora='15:42:00'
+2025-06-09 17:23:59,726 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-24:
+2025-06-09 17:23:59,726 - ContainerUpdater - INFO -   ✅ Registros actualizados: 10
+2025-06-09 17:23:59,727 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:23:59,727 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:23:59,727 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 480
+2025-06-09 17:23:59,727 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-09 17:23:59,728 - ContainerUpdater - INFO - Día 24 completado: 10 actualizaciones
+2025-06-09 17:23:59,728 - ContainerUpdater - INFO - Procesando día: 25
+2025-06-09 17:23:59,728 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-25 (de SALIDA_2025_05.xlsx, hoja 25)
+2025-06-09 17:23:59,728 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 25
+2025-06-09 17:23:59,768 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja 25: Worksheet named '25' not found
+2025-06-09 17:23:59,768 - ContainerUpdater - ERROR - Error procesando día 25: Worksheet named '25' not found
+2025-06-09 17:23:59,769 - ContainerUpdater - INFO - Procesando día: 26
+2025-06-09 17:23:59,769 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-26 (de SALIDA_2025_05.xlsx, hoja 26)
+2025-06-09 17:23:59,769 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 26
+2025-06-09 17:23:59,836 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:23:59,882 - ContainerUpdater - INFO - Archivo exportación cargado: 26 registros válidos
+2025-06-09 17:23:59,884 - ContainerUpdater - INFO - Diccionario creado para 2025-05-26: 26 entradas válidas
+2025-06-09 17:23:59,884 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:23:59,887 - ContainerUpdater - INFO - Registros candidatos para actualización: 1381
+2025-06-09 17:23:59,896 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1614: Contenedor='KKTU8003930' -> 'KKTU8003930', Placa='T5H989' -> 'T5H989', Fecha=2025-05-26, Hora='18:17:00'
+2025-06-09 17:23:59,896 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1615: Contenedor='SEGU1979844' -> 'SEGU1979844', Placa='A2O986' -> 'A2O986', Fecha=2025-05-26, Hora='16:54:00'
+2025-06-09 17:23:59,897 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1617: Contenedor='MSDU2669510' -> 'MSDU2669510', Placa='C7G985' -> 'C7G985', Fecha=2025-05-26, Hora='13:16:00'
+2025-06-09 17:23:59,897 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1618: Contenedor='MSNU2616654' -> 'MSNU2616654', Placa='AXJ992' -> 'AXJ992', Fecha=2025-05-26, Hora='13:22:00'
+2025-06-09 17:23:59,897 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1619: Contenedor='MSMU3449590' -> 'MSMU3449590', Placa='AHV995' -> 'AHV995', Fecha=2025-05-26, Hora='13:27:00'
+2025-06-09 17:23:59,901 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-26:
+2025-06-09 17:23:59,902 - ContainerUpdater - INFO -   ✅ Registros actualizados: 25
+2025-06-09 17:23:59,902 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:23:59,902 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:23:59,902 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 450
+2025-06-09 17:23:59,903 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 5
+2025-06-09 17:23:59,903 - ContainerUpdater - INFO - Día 26 completado: 25 actualizaciones
+2025-06-09 17:23:59,903 - ContainerUpdater - INFO - Procesando día: 27
+2025-06-09 17:23:59,904 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-27 (de SALIDA_2025_05.xlsx, hoja 27)
+2025-06-09 17:23:59,904 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 27
+2025-06-09 17:23:59,948 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:23:59,994 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 17:23:59,997 - ContainerUpdater - INFO - Diccionario creado para 2025-05-27: 18 entradas válidas
+2025-06-09 17:23:59,997 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:24:00,001 - ContainerUpdater - INFO - Registros candidatos para actualización: 1356
+2025-06-09 17:24:00,009 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1651: Contenedor='TRHU378339-9' -> 'TRHU3783399', Placa='B9L983' -> 'B9L983', Fecha=2025-05-27, Hora='16:09:00'
+2025-06-09 17:24:00,009 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1652: Contenedor='TRHU382442-0' -> 'TRHU3824420', Placa='AAR975' -> 'AAR975', Fecha=2025-05-27, Hora='18:06:00'
+2025-06-09 17:24:00,010 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1653: Contenedor='NYKU369890-7' -> 'NYKU3698907', Placa='B9G976' -> 'B9G976', Fecha=2025-05-27, Hora='16:28:00'
+2025-06-09 17:24:00,010 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1654: Contenedor='TRHU382442-0' -> 'TRHU3824420', Placa='AAR975' -> 'AAR975', Fecha=2025-05-27, Hora='18:06:00'
+2025-06-09 17:24:00,011 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1655: Contenedor='BEAU220671-8' -> 'BEAU2206718', Placa='A3M988' -> 'A3M988', Fecha=2025-05-27, Hora='17:41:00'
+2025-06-09 17:24:00,016 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-27:
+2025-06-09 17:24:00,017 - ContainerUpdater - INFO -   ✅ Registros actualizados: 19
+2025-06-09 17:24:00,017 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:24:00,017 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:24:00,017 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 436
+2025-06-09 17:24:00,017 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-09 17:24:00,018 - ContainerUpdater - INFO - Día 27 completado: 19 actualizaciones
+2025-06-09 17:24:00,018 - ContainerUpdater - INFO - Procesando día: 28
+2025-06-09 17:24:00,018 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-28 (de SALIDA_2025_05.xlsx, hoja 28)
+2025-06-09 17:24:00,018 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 28
+2025-06-09 17:24:00,061 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:24:00,107 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-09 17:24:00,110 - ContainerUpdater - INFO - Diccionario creado para 2025-05-28: 15 entradas válidas
+2025-06-09 17:24:00,110 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:24:00,113 - ContainerUpdater - INFO - Registros candidatos para actualización: 1337
+2025-06-09 17:24:00,121 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1674: Contenedor='FCIU462912-0' -> 'FCIU4629120', Placa='B9L983' -> 'B9L983', Fecha=2025-05-28, Hora='15:25:00'
+2025-06-09 17:24:00,122 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1676: Contenedor='FCIU462912-0' -> 'FCIU4629120', Placa='B9L983' -> 'B9L983', Fecha=2025-05-28, Hora='15:25:00'
+2025-06-09 17:24:00,122 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1677: Contenedor='TGHU1569302' -> 'TGHU1569302', Placa='ADG992' -> 'ADG992', Fecha=2025-05-28, Hora='18:44:00'
+2025-06-09 17:24:00,123 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1679: Contenedor='OOCU042098-2' -> 'OOCU0420982', Placa='AKM999' -> 'AKM999', Fecha=2025-05-28, Hora='17:19:00'
+2025-06-09 17:24:00,123 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1680: Contenedor='OOCU0586320' -> 'OOCU0586320', Placa='BMX979' -> 'BMX979', Fecha=2025-05-28, Hora='17:29:00'
+2025-06-09 17:24:00,126 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-28:
+2025-06-09 17:24:00,127 - ContainerUpdater - INFO -   ✅ Registros actualizados: 16
+2025-06-09 17:24:00,127 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:24:00,127 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:24:00,127 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 418
+2025-06-09 17:24:00,128 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-09 17:24:00,128 - ContainerUpdater - INFO - Día 28 completado: 16 actualizaciones
+2025-06-09 17:24:00,128 - ContainerUpdater - INFO - Procesando día: 29
+2025-06-09 17:24:00,128 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-29 (de SALIDA_2025_05.xlsx, hoja 29)
+2025-06-09 17:24:00,129 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 29
+2025-06-09 17:24:00,172 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:24:00,217 - ContainerUpdater - INFO - Archivo exportación cargado: 17 registros válidos
+2025-06-09 17:24:00,220 - ContainerUpdater - INFO - Diccionario creado para 2025-05-29: 17 entradas válidas
+2025-06-09 17:24:00,220 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:24:00,223 - ContainerUpdater - INFO - Registros candidatos para actualización: 1321
+2025-06-09 17:24:00,232 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1696: Contenedor='TRHU1031664' -> 'TRHU1031664', Placa='A4E988' -> 'A4E988', Fecha=2025-05-29, Hora='16:55:00'
+2025-06-09 17:24:00,233 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1697: Contenedor='TEMU2384718' -> 'TEMU2384718', Placa='T5H989' -> 'T5H989', Fecha=2025-05-29, Hora='18:51:00'
+2025-06-09 17:24:00,234 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1698: Contenedor='TRHU1031664' -> 'TRHU1031664', Placa='A4E988' -> 'A4E988', Fecha=2025-05-29, Hora='16:55:00'
+2025-06-09 17:24:00,234 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1699: Contenedor='TEMU2384718' -> 'TEMU2384718', Placa='T5H989' -> 'T5H989', Fecha=2025-05-29, Hora='18:51:00'
+2025-06-09 17:24:00,235 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1700: Contenedor='MSMU3286825' -> 'MSMU3286825', Placa='AXJ992' -> 'AXJ992', Fecha=2025-05-29, Hora='11:59:00'
+2025-06-09 17:24:00,241 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-29:
+2025-06-09 17:24:00,241 - ContainerUpdater - INFO -   ✅ Registros actualizados: 36
+2025-06-09 17:24:00,241 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:24:00,241 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:24:00,242 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 368
+2025-06-09 17:24:00,242 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 16
+2025-06-09 17:24:00,242 - ContainerUpdater - INFO - Día 29 completado: 36 actualizaciones
+2025-06-09 17:24:00,242 - ContainerUpdater - INFO - Procesando día: 30
+2025-06-09 17:24:00,242 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-30 (de SALIDA_2025_05.xlsx, hoja 30)
+2025-06-09 17:24:00,243 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 30
+2025-06-09 17:24:00,288 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:24:00,332 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-09 17:24:00,335 - ContainerUpdater - INFO - Diccionario creado para 2025-05-30: 18 entradas válidas
+2025-06-09 17:24:00,336 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:24:00,339 - ContainerUpdater - INFO - Registros candidatos para actualización: 1285
+2025-06-09 17:24:00,347 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1752: Contenedor='RFSU3027907' -> 'RFSU3027907', Placa='F5U988' -> 'F5U988', Fecha=2025-05-30, Hora='19:17:00'
+2025-06-09 17:24:00,348 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1753: Contenedor='HLBU3889149' -> 'HLBU3889149', Placa='B2P978' -> 'B2P978', Fecha=2025-05-30, Hora='19:23:00'
+2025-06-09 17:24:00,348 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1754: Contenedor='TEMU2290394' -> 'TEMU2290394', Placa='V7I987' -> 'V7I987', Fecha=2025-05-30, Hora='18:58:00'
+2025-06-09 17:24:00,349 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1755: Contenedor='TEMU5572262' -> 'TEMU5572262', Placa='F8P975' -> 'F8P975', Fecha=2025-05-30, Hora='17:26:00'
+2025-06-09 17:24:00,349 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1756: Contenedor='TEMU2290394' -> 'TEMU2290394', Placa='V7I987' -> 'V7I987', Fecha=2025-05-30, Hora='18:58:00'
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-30:
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO -   ✅ Registros actualizados: 20
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 364
+2025-06-09 17:24:00,352 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-09 17:24:00,353 - ContainerUpdater - INFO - Día 30 completado: 20 actualizaciones
+2025-06-09 17:24:00,353 - ContainerUpdater - INFO - Procesando día: 31
+2025-06-09 17:24:00,353 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-05-31 (de SALIDA_2025_05.xlsx, hoja 31)
+2025-06-09 17:24:00,353 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\djair\Downloads\SALIDA_2025_05.xlsx, hoja: 31
+2025-06-09 17:24:00,397 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-09 17:24:00,443 - ContainerUpdater - INFO - Archivo exportación cargado: 21 registros válidos
+2025-06-09 17:24:00,446 - ContainerUpdater - INFO - Diccionario creado para 2025-05-31: 21 entradas válidas
+2025-06-09 17:24:00,446 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-09 17:24:00,449 - ContainerUpdater - INFO - Registros candidatos para actualización: 1265
+2025-06-09 17:24:00,457 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1781: Contenedor='TEMU5892163' -> 'TEMU5892163', Placa='A2O986' -> 'A2O986', Fecha=2025-05-31, Hora='14:57:00'
+2025-06-09 17:24:00,458 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1782: Contenedor='TEMU1032570' -> 'TEMU1032570', Placa='A4E988' -> 'A4E988', Fecha=2025-05-31, Hora='17:46:00'
+2025-06-09 17:24:00,458 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1783: Contenedor='TEMU5892163' -> 'TEMU5892163', Placa='A2O986' -> 'A2O986', Fecha=2025-05-31, Hora='14:57:00'
+2025-06-09 17:24:00,459 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1784: Contenedor='APZU364633-3' -> 'APZU3646333', Placa='B9C977' -> 'B9C977', Fecha=2025-05-31, Hora='13:53:00'
+2025-06-09 17:24:00,459 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1785: Contenedor='TEMU1032570' -> 'TEMU1032570', Placa='A4E988' -> 'A4E988', Fecha=2025-05-31, Hora='17:46:00'
+2025-06-09 17:24:00,461 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-05-31:
+2025-06-09 17:24:00,461 - ContainerUpdater - INFO -   ✅ Registros actualizados: 23
+2025-06-09 17:24:00,462 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 901
+2025-06-09 17:24:00,462 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-09 17:24:00,462 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 341
+2025-06-09 17:24:00,462 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-09 17:24:00,462 - ContainerUpdater - INFO - Día 31 completado: 23 actualizaciones
+2025-06-09 17:24:01,409 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_172400.xlsx
+2025-06-09 17:24:01,409 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 172
