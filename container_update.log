@@ -635,3 +635,435 @@
 2025-06-09 17:24:00,462 - ContainerUpdater - INFO - Día 31 completado: 23 actualizaciones
 2025-06-09 17:24:01,409 - ContainerUpdater - INFO - Archivo guardado: C:\Users\djair\Downloads\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250609_172400.xlsx
 2025-06-09 17:24:01,409 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 172
+2025-06-13 12:30:59,178 - ContainerUpdater - INFO - Iniciando procesamiento de 13 días: ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13']
+2025-06-13 12:30:59,179 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\jrivas\Documents\Data 1306\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-13 12:31:01,766 - ContainerUpdater - INFO - Archivo cargado con 2003 registros y 38 columnas
+2025-06-13 12:31:01,797 - ContainerUpdater - INFO - Archivo principal cargado: 2003 registros
+2025-06-13 12:31:01,798 - ContainerUpdater - INFO - Procesando día: 01
+2025-06-13 12:31:01,799 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-01 (de SALIDA_2025_06.xlsx, hoja 01)
+2025-06-13 12:31:01,799 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 01
+2025-06-13 12:31:01,919 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 01: Worksheet named '01' not found
+2025-06-13 12:31:01,919 - ContainerUpdater - ERROR - Error procesando día 01: Worksheet named '01' not found
+2025-06-13 12:31:01,919 - ContainerUpdater - INFO - Procesando día: 02
+2025-06-13 12:31:01,920 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-02 (de SALIDA_2025_06.xlsx, hoja 02)
+2025-06-13 12:31:01,920 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 02
+2025-06-13 12:31:01,998 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:02,065 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-13 12:31:02,070 - ContainerUpdater - INFO - Diccionario creado para 2025-06-02: 18 entradas válidas
+2025-06-13 12:31:02,070 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:02,084 - ContainerUpdater - INFO - Registros candidatos para actualización: 1391
+2025-06-13 12:31:02,152 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1811: Contenedor='UETU2143954' -> 'UETU2143954', Placa='F8Q990' -> 'F8Q990', Fecha=2025-06-02, Hora='17:19:00'
+2025-06-13 12:31:02,153 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1812: Contenedor='UETU2731900' -> 'UETU2731900', Placa='D1L980' -> 'D1L980', Fecha=2025-06-02, Hora='14:27:00'
+2025-06-13 12:31:02,155 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1813: Contenedor='BMOU2901099' -> 'BMOU2901099', Placa='A3S974' -> 'A3S974', Fecha=2025-06-02, Hora='15:21:00'
+2025-06-13 12:31:02,156 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1814: Contenedor='BSIU3230529' -> 'BSIU3230529', Placa='C0G976' -> 'C0G976', Fecha=2025-06-02, Hora='15:52:00'
+2025-06-13 12:31:02,158 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1815: Contenedor='HLBU1039130' -> 'HLBU1039130', Placa='C0E984' -> 'C0E984', Fecha=2025-06-02, Hora='17:21:00'
+2025-06-13 12:31:02,169 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-02:
+2025-06-13 12:31:02,169 - ContainerUpdater - INFO -   ✅ Registros actualizados: 18
+2025-06-13 12:31:02,170 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:02,170 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:02,171 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 446
+2025-06-13 12:31:02,171 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:31:02,172 - ContainerUpdater - INFO - Día 02 completado: 18 actualizaciones
+2025-06-13 12:31:02,172 - ContainerUpdater - INFO - Procesando día: 03
+2025-06-13 12:31:02,172 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-03 (de SALIDA_2025_06.xlsx, hoja 03)
+2025-06-13 12:31:02,174 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 03
+2025-06-13 12:31:02,237 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:02,305 - ContainerUpdater - INFO - Archivo exportación cargado: 5 registros válidos
+2025-06-13 12:31:02,310 - ContainerUpdater - INFO - Diccionario creado para 2025-06-03: 5 entradas válidas
+2025-06-13 12:31:02,310 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:02,319 - ContainerUpdater - INFO - Registros candidatos para actualización: 1373
+2025-06-13 12:31:02,349 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1831: Contenedor='CMAU1785926' -> 'CMAU1785926', Placa='A0D992' -> 'A0D992', Fecha=2025-06-03, Hora='16:29:00'
+2025-06-13 12:31:02,350 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1832: Contenedor='CMAU0545854' -> 'CMAU0545854', Placa='V7I987' -> 'V7I987', Fecha=2025-06-03, Hora='16:30:00'
+2025-06-13 12:31:02,350 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1833: Contenedor='CMAU1785926' -> 'CMAU1785926', Placa='A0D992' -> 'A0D992', Fecha=2025-06-03, Hora='16:29:00'
+2025-06-13 12:31:02,351 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1834: Contenedor='CMAU0545854' -> 'CMAU0545854', Placa='V7I987' -> 'V7I987', Fecha=2025-06-03, Hora='16:30:00'
+2025-06-13 12:31:02,352 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1835: Contenedor='FANU3075714' -> 'FANU3075714', Placa='AVU991' -> 'AVU991', Fecha=2025-06-03, Hora='10:39:00'
+2025-06-13 12:31:02,362 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-03:
+2025-06-13 12:31:02,362 - ContainerUpdater - INFO -   ✅ Registros actualizados: 7
+2025-06-13 12:31:02,362 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:02,363 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:02,363 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 438
+2025-06-13 12:31:02,363 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 3
+2025-06-13 12:31:02,363 - ContainerUpdater - INFO - Día 03 completado: 7 actualizaciones
+2025-06-13 12:31:02,364 - ContainerUpdater - INFO - Procesando día: 04
+2025-06-13 12:31:02,364 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-04 (de SALIDA_2025_06.xlsx, hoja 04)
+2025-06-13 12:31:02,364 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 04
+2025-06-13 12:31:02,428 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:02,491 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-13 12:31:02,495 - ContainerUpdater - INFO - Diccionario creado para 2025-06-04: 11 entradas válidas
+2025-06-13 12:31:02,495 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:02,504 - ContainerUpdater - INFO - Registros candidatos para actualización: 1366
+2025-06-13 12:31:02,532 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1841: Contenedor='MEDU1381100' -> 'MEDU1381100', Placa='AXJ992' -> 'AXJ992', Fecha=2025-06-04, Hora='14:19:00'
+2025-06-13 12:31:02,534 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1842: Contenedor='FANU3189790' -> 'FANU3189790', Placa='C3H980' -> 'C3H980', Fecha=2025-06-04, Hora='10:37:00'
+2025-06-13 12:31:02,534 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1843: Contenedor='HAMU3030050' -> 'HAMU3030050', Placa='C4J997' -> 'C4J997', Fecha=2025-06-04, Hora='12:21:00'
+2025-06-13 12:31:02,535 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1844: Contenedor='TCNU3620530' -> 'TCNU3620530', Placa='D8L974' -> 'D8L974', Fecha=2025-06-04, Hora='12:45:00'
+2025-06-13 12:31:02,536 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1845: Contenedor='TCKU6780754' -> 'TCKU6780754', Placa='T5T982' -> 'T5T982', Fecha=2025-06-04, Hora='11:16:00'
+2025-06-13 12:31:02,546 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-04:
+2025-06-13 12:31:02,546 - ContainerUpdater - INFO -   ✅ Registros actualizados: 11
+2025-06-13 12:31:02,547 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:02,547 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:02,547 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 427
+2025-06-13 12:31:02,549 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 3
+2025-06-13 12:31:02,550 - ContainerUpdater - INFO - Día 04 completado: 11 actualizaciones
+2025-06-13 12:31:02,550 - ContainerUpdater - INFO - Procesando día: 05
+2025-06-13 12:31:02,550 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-05 (de SALIDA_2025_06.xlsx, hoja 05)
+2025-06-13 12:31:02,550 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 05
+2025-06-13 12:31:02,617 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:02,682 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-13 12:31:02,686 - ContainerUpdater - INFO - Diccionario creado para 2025-06-05: 11 entradas válidas
+2025-06-13 12:31:02,687 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:02,697 - ContainerUpdater - INFO - Registros candidatos para actualización: 1355
+2025-06-13 12:31:02,723 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1855: Contenedor='MSDU2750920' -> 'MSDU2750920', Placa='AHW978' -> 'AHW978', Fecha=2025-06-05, Hora='12:07:00'
+2025-06-13 12:31:02,724 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1856: Contenedor='MSNU2466560' -> 'MSNU2466560', Placa='C7G984' -> 'C7G984', Fecha=2025-06-05, Hora='12:18:00'
+2025-06-13 12:31:02,725 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1857: Contenedor='MSDU1939502' -> 'MSDU1939502', Placa='C7G984' -> 'C7G984', Fecha=2025-06-05, Hora='18:45:00'
+2025-06-13 12:31:02,726 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1858: Contenedor='MSMU2037345' -> 'MSMU2037345', Placa='AHW978' -> 'AHW978', Fecha=2025-06-05, Hora='18:40:00'
+2025-06-13 12:31:02,726 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1859: Contenedor='TLLU3428853' -> 'TLLU3428853', Placa='C8V970' -> 'C8V970', Fecha=2025-06-05, Hora='19:13:00'
+2025-06-13 12:31:02,733 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-05:
+2025-06-13 12:31:02,734 - ContainerUpdater - INFO -   ✅ Registros actualizados: 10
+2025-06-13 12:31:02,734 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:02,734 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:02,735 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 419
+2025-06-13 12:31:02,735 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 1
+2025-06-13 12:31:02,735 - ContainerUpdater - INFO - Día 05 completado: 10 actualizaciones
+2025-06-13 12:31:02,735 - ContainerUpdater - INFO - Procesando día: 06
+2025-06-13 12:31:02,736 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-06 (de SALIDA_2025_06.xlsx, hoja 06)
+2025-06-13 12:31:02,736 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 06
+2025-06-13 12:31:02,819 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:02,944 - ContainerUpdater - INFO - Archivo exportación cargado: 25 registros válidos
+2025-06-13 12:31:02,950 - ContainerUpdater - INFO - Diccionario creado para 2025-06-06: 25 entradas válidas
+2025-06-13 12:31:02,951 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:02,962 - ContainerUpdater - INFO - Registros candidatos para actualización: 1345
+2025-06-13 12:31:02,999 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1868: Contenedor='FCIU3805816' -> 'FCIU3805816', Placa='A4E988' -> 'A4E988', Fecha=2025-06-06, Hora='19:07:00'
+2025-06-13 12:31:03,001 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1869: Contenedor='FCIU3805816' -> 'FCIU3805816', Placa='A4E988' -> 'A4E988', Fecha=2025-06-06, Hora='19:07:00'
+2025-06-13 12:31:03,004 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1870: Contenedor='MSNU1414134' -> 'MSNU1414134', Placa='C8V970' -> 'C8V970', Fecha=2025-06-06, Hora='12:22:00'
+2025-06-13 12:31:03,006 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1871: Contenedor='TCKU1676407' -> 'TCKU1676407', Placa='C7G985' -> 'C7G985', Fecha=2025-06-06, Hora='12:13:00'
+2025-06-13 12:31:03,011 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1872: Contenedor='MRSU0368935' -> 'MRSU0368935', Placa='T5T982' -> 'T5T982', Fecha=2025-06-06, Hora='12:50:00'
+2025-06-13 12:31:03,029 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-06:
+2025-06-13 12:31:03,030 - ContainerUpdater - INFO -   ✅ Registros actualizados: 25
+2025-06-13 12:31:03,031 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:03,032 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:03,033 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 389
+2025-06-13 12:31:03,034 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 6
+2025-06-13 12:31:03,035 - ContainerUpdater - INFO - Día 06 completado: 25 actualizaciones
+2025-06-13 12:31:03,036 - ContainerUpdater - INFO - Procesando día: 07
+2025-06-13 12:31:03,037 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-07 (de SALIDA_2025_06.xlsx, hoja 07)
+2025-06-13 12:31:03,038 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 07
+2025-06-13 12:31:03,140 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 07: Worksheet named '07' not found
+2025-06-13 12:31:03,141 - ContainerUpdater - ERROR - Error procesando día 07: Worksheet named '07' not found
+2025-06-13 12:31:03,143 - ContainerUpdater - INFO - Procesando día: 08
+2025-06-13 12:31:03,144 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-08 (de SALIDA_2025_06.xlsx, hoja 08)
+2025-06-13 12:31:03,145 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 08
+2025-06-13 12:31:03,229 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 08: Worksheet named '08' not found
+2025-06-13 12:31:03,230 - ContainerUpdater - ERROR - Error procesando día 08: Worksheet named '08' not found
+2025-06-13 12:31:03,231 - ContainerUpdater - INFO - Procesando día: 09
+2025-06-13 12:31:03,233 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-09 (de SALIDA_2025_06.xlsx, hoja 09)
+2025-06-13 12:31:03,234 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 09
+2025-06-13 12:31:03,342 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:03,436 - ContainerUpdater - INFO - Archivo exportación cargado: 32 registros válidos
+2025-06-13 12:31:03,453 - ContainerUpdater - INFO - Diccionario creado para 2025-06-09: 32 entradas válidas
+2025-06-13 12:31:03,490 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:03,514 - ContainerUpdater - INFO - Registros candidatos para actualización: 1320
+2025-06-13 12:31:03,563 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1901: Contenedor='HLXU1356030' -> 'HLXU1356030', Placa='A3W996' -> 'A3W996', Fecha=2025-06-09, Hora='10:48:00'
+2025-06-13 12:31:03,565 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1902: Contenedor='CAIU6675765' -> 'CAIU6675765', Placa='A6B981' -> 'A6B981', Fecha=2025-06-09, Hora='11:52:00'
+2025-06-13 12:31:03,568 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1903: Contenedor='CAIU3298061' -> 'CAIU3298061', Placa='C4J997' -> 'C4J997', Fecha=2025-06-09, Hora='12:02:00'
+2025-06-13 12:31:03,570 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1905: Contenedor='UACU4064171' -> 'UACU4064171', Placa='A4E988' -> 'A4E988', Fecha=2025-06-09, Hora='16:34:00'
+2025-06-13 12:31:03,572 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1906: Contenedor='HLBU3826937' -> 'HLBU3826937', Placa='F8Q990' -> 'F8Q990', Fecha=2025-06-09, Hora='22:55:00'
+2025-06-13 12:31:03,588 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-09:
+2025-06-13 12:31:03,591 - ContainerUpdater - INFO -   ✅ Registros actualizados: 30
+2025-06-13 12:31:03,593 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:03,594 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:03,594 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 356
+2025-06-13 12:31:03,595 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 9
+2025-06-13 12:31:03,595 - ContainerUpdater - INFO - Día 09 completado: 30 actualizaciones
+2025-06-13 12:31:03,596 - ContainerUpdater - INFO - Procesando día: 10
+2025-06-13 12:31:03,596 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-10 (de SALIDA_2025_06.xlsx, hoja 10)
+2025-06-13 12:31:03,597 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 10
+2025-06-13 12:31:03,699 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:03,954 - ContainerUpdater - INFO - Archivo exportación cargado: 16 registros válidos
+2025-06-13 12:31:03,970 - ContainerUpdater - INFO - Diccionario creado para 2025-06-10: 16 entradas válidas
+2025-06-13 12:31:03,971 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:03,984 - ContainerUpdater - INFO - Registros candidatos para actualización: 1290
+2025-06-13 12:31:04,015 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1949: Contenedor='TEMU321126-0' -> 'TEMU3211260', Placa='C5A995' -> 'C5A995', Fecha=2025-06-10, Hora='16:02:00'
+2025-06-13 12:31:04,018 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1950: Contenedor='ONEU1815149' -> 'ONEU1815149', Placa='A5Z977' -> 'A5Z977', Fecha=2025-06-10, Hora='14:48:00'
+2025-06-13 12:31:04,019 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1951: Contenedor='ONEU0161953' -> 'ONEU0161953', Placa='A6X988' -> 'A6X988', Fecha=2025-06-10, Hora='14:35:00'
+2025-06-13 12:31:04,020 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1952: Contenedor='ONEU0287480' -> 'ONEU0287480', Placa='B2Z977' -> 'B2Z977', Fecha=2025-06-10, Hora='15:52:00'
+2025-06-13 12:31:04,021 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1954: Contenedor='YMMU7005803' -> 'YMMU7005803', Placa='A3M988' -> 'A3M988', Fecha=2025-06-10, Hora='14:23:00'
+2025-06-13 12:31:04,026 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-10:
+2025-06-13 12:31:04,027 - ContainerUpdater - INFO -   ✅ Registros actualizados: 14
+2025-06-13 12:31:04,027 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:04,028 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:04,028 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 349
+2025-06-13 12:31:04,028 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:31:04,029 - ContainerUpdater - INFO - Día 10 completado: 14 actualizaciones
+2025-06-13 12:31:04,029 - ContainerUpdater - INFO - Procesando día: 11
+2025-06-13 12:31:04,030 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-11 (de SALIDA_2025_06.xlsx, hoja 11)
+2025-06-13 12:31:04,030 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 11
+2025-06-13 12:31:04,090 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:04,153 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-13 12:31:04,159 - ContainerUpdater - INFO - Diccionario creado para 2025-06-11: 15 entradas válidas
+2025-06-13 12:31:04,159 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:04,167 - ContainerUpdater - INFO - Registros candidatos para actualización: 1276
+2025-06-13 12:31:04,194 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1966: Contenedor='TTNU1264599' -> 'TTNU1264599', Placa='B2P978' -> 'B2P978', Fecha=2025-06-11, Hora='19:58:00'
+2025-06-13 12:31:04,195 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1967: Contenedor='SUDU7340634' -> 'SUDU7340634', Placa='B8U978' -> 'B8U978', Fecha=2025-06-11, Hora='18:44:00'
+2025-06-13 12:31:04,195 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1968: Contenedor='MRKU7748364' -> 'MRKU7748364', Placa='AFU989' -> 'AFU989', Fecha=2025-06-11, Hora='18:10:00'
+2025-06-13 12:31:04,196 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1969: Contenedor='MRKU6952521' -> 'MRKU6952521', Placa='F5U988' -> 'F5U988', Fecha=2025-06-11, Hora='19:44:00'
+2025-06-13 12:31:04,197 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1970: Contenedor='MRKU9456802' -> 'MRKU9456802', Placa='A3M988' -> 'A3M988', Fecha=2025-06-11, Hora='16:49:00'
+2025-06-13 12:31:04,200 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-11:
+2025-06-13 12:31:04,201 - ContainerUpdater - INFO -   ✅ Registros actualizados: 13
+2025-06-13 12:31:04,201 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:04,201 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:04,202 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 334
+2025-06-13 12:31:04,202 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 4
+2025-06-13 12:31:04,203 - ContainerUpdater - INFO - Día 11 completado: 13 actualizaciones
+2025-06-13 12:31:04,203 - ContainerUpdater - INFO - Procesando día: 12
+2025-06-13 12:31:04,204 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-12 (de SALIDA_2025_06.xlsx, hoja 12)
+2025-06-13 12:31:04,204 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 12
+2025-06-13 12:31:04,269 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:04,388 - ContainerUpdater - INFO - Archivo exportación cargado: 9 registros válidos
+2025-06-13 12:31:04,400 - ContainerUpdater - INFO - Diccionario creado para 2025-06-12: 9 entradas válidas
+2025-06-13 12:31:04,401 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:04,420 - ContainerUpdater - INFO - Registros candidatos para actualización: 1263
+2025-06-13 12:31:04,464 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1991: Contenedor='SUDU7699244' -> 'SUDU7699244', Placa='A4E988' -> 'A4E988', Fecha=2025-06-12, Hora='11:19:00'
+2025-06-13 12:31:04,466 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1992: Contenedor='MRKU8542470' -> 'MRKU8542470', Placa='B2Z977' -> 'B2Z977', Fecha=2025-06-12, Hora='14:42:00'
+2025-06-13 12:31:04,468 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1993: Contenedor='MRSU0061091' -> 'MRSU0061091', Placa='F8P975' -> 'F8P975', Fecha=2025-06-12, Hora='15:18:00'
+2025-06-13 12:31:04,470 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1994: Contenedor='MRKU7653715' -> 'MRKU7653715', Placa='ADG992' -> 'ADG992', Fecha=2025-06-12, Hora='17:19:00'
+2025-06-13 12:31:04,476 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1995: Contenedor='SUDU7877198' -> 'SUDU7877198', Placa='B9L983' -> 'B9L983', Fecha=2025-06-12, Hora='17:48:00'
+2025-06-13 12:31:04,479 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-12:
+2025-06-13 12:31:04,480 - ContainerUpdater - INFO -   ✅ Registros actualizados: 7
+2025-06-13 12:31:04,481 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:04,482 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:04,482 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 329
+2025-06-13 12:31:04,482 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:31:04,483 - ContainerUpdater - INFO - Día 12 completado: 7 actualizaciones
+2025-06-13 12:31:04,483 - ContainerUpdater - INFO - Procesando día: 13
+2025-06-13 12:31:04,484 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-13 (de SALIDA_2025_06.xlsx, hoja 13)
+2025-06-13 12:31:04,484 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 13
+2025-06-13 12:31:04,580 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:31:04,689 - ContainerUpdater - INFO - Archivo exportación cargado: 2 registros válidos
+2025-06-13 12:31:04,695 - ContainerUpdater - INFO - Diccionario creado para 2025-06-13: 2 entradas válidas
+2025-06-13 12:31:04,696 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:31:04,712 - ContainerUpdater - INFO - Registros candidatos para actualización: 1256
+2025-06-13 12:31:04,750 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-13:
+2025-06-13 12:31:04,751 - ContainerUpdater - INFO -   ✅ Registros actualizados: 0
+2025-06-13 12:31:04,752 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:31:04,753 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:31:04,754 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 331
+2025-06-13 12:31:04,755 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-13 12:31:04,756 - ContainerUpdater - INFO - Día 13 completado: 0 actualizaciones
+2025-06-13 12:31:08,807 - ContainerUpdater - INFO - Archivo guardado: C:\Users\jrivas\Documents\Data 1306\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250613_123104.xlsx
+2025-06-13 12:31:08,808 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 135
+2025-06-13 12:38:48,502 - ContainerUpdater - INFO - Iniciando procesamiento de 13 días: ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13']
+2025-06-13 12:38:48,503 - ContainerUpdater - INFO - Cargando archivo principal: C:\Users\jrivas\Documents\Data 1306\Lead time OQ1 Exportaciones 2025.xlsx
+2025-06-13 12:38:50,543 - ContainerUpdater - INFO - Archivo cargado con 2003 registros y 38 columnas
+2025-06-13 12:38:50,571 - ContainerUpdater - INFO - Archivo principal cargado: 2003 registros
+2025-06-13 12:38:50,573 - ContainerUpdater - INFO - Procesando día: 01
+2025-06-13 12:38:50,576 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-01 (de SALIDA_2025_06.xlsx, hoja 01)
+2025-06-13 12:38:50,578 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 01
+2025-06-13 12:38:50,643 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 01: Worksheet named '01' not found
+2025-06-13 12:38:50,644 - ContainerUpdater - ERROR - Error procesando día 01: Worksheet named '01' not found
+2025-06-13 12:38:50,644 - ContainerUpdater - INFO - Procesando día: 02
+2025-06-13 12:38:50,645 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-02 (de SALIDA_2025_06.xlsx, hoja 02)
+2025-06-13 12:38:50,645 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 02
+2025-06-13 12:38:50,712 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:50,841 - ContainerUpdater - INFO - Archivo exportación cargado: 18 registros válidos
+2025-06-13 12:38:50,846 - ContainerUpdater - INFO - Diccionario creado para 2025-06-02: 18 entradas válidas
+2025-06-13 12:38:50,847 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:50,858 - ContainerUpdater - INFO - Registros candidatos para actualización: 1391
+2025-06-13 12:38:50,888 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1811: Contenedor='UETU2143954' -> 'UETU2143954', Placa='F8Q990' -> 'F8Q990', Fecha=2025-06-02, Hora='17:19:00'
+2025-06-13 12:38:50,889 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1812: Contenedor='UETU2731900' -> 'UETU2731900', Placa='D1L980' -> 'D1L980', Fecha=2025-06-02, Hora='14:27:00'
+2025-06-13 12:38:50,890 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1813: Contenedor='BMOU2901099' -> 'BMOU2901099', Placa='A3S974' -> 'A3S974', Fecha=2025-06-02, Hora='15:21:00'
+2025-06-13 12:38:50,891 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1814: Contenedor='BSIU3230529' -> 'BSIU3230529', Placa='C0G976' -> 'C0G976', Fecha=2025-06-02, Hora='15:52:00'
+2025-06-13 12:38:50,892 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1815: Contenedor='HLBU1039130' -> 'HLBU1039130', Placa='C0E984' -> 'C0E984', Fecha=2025-06-02, Hora='17:21:00'
+2025-06-13 12:38:50,905 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-02:
+2025-06-13 12:38:50,905 - ContainerUpdater - INFO -   ✅ Registros actualizados: 18
+2025-06-13 12:38:50,905 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:50,906 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:50,906 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 446
+2025-06-13 12:38:50,906 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:38:50,906 - ContainerUpdater - INFO - Día 02 completado: 18 actualizaciones
+2025-06-13 12:38:50,906 - ContainerUpdater - INFO - Procesando día: 03
+2025-06-13 12:38:50,907 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-03 (de SALIDA_2025_06.xlsx, hoja 03)
+2025-06-13 12:38:50,907 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 03
+2025-06-13 12:38:50,972 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:51,045 - ContainerUpdater - INFO - Archivo exportación cargado: 5 registros válidos
+2025-06-13 12:38:51,080 - ContainerUpdater - INFO - Diccionario creado para 2025-06-03: 5 entradas válidas
+2025-06-13 12:38:51,081 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:51,091 - ContainerUpdater - INFO - Registros candidatos para actualización: 1373
+2025-06-13 12:38:51,120 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1831: Contenedor='CMAU1785926' -> 'CMAU1785926', Placa='A0D992' -> 'A0D992', Fecha=2025-06-03, Hora='16:29:00'
+2025-06-13 12:38:51,121 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1832: Contenedor='CMAU0545854' -> 'CMAU0545854', Placa='V7I987' -> 'V7I987', Fecha=2025-06-03, Hora='16:30:00'
+2025-06-13 12:38:51,122 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1833: Contenedor='CMAU1785926' -> 'CMAU1785926', Placa='A0D992' -> 'A0D992', Fecha=2025-06-03, Hora='16:29:00'
+2025-06-13 12:38:51,123 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1834: Contenedor='CMAU0545854' -> 'CMAU0545854', Placa='V7I987' -> 'V7I987', Fecha=2025-06-03, Hora='16:30:00'
+2025-06-13 12:38:51,124 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1835: Contenedor='FANU3075714' -> 'FANU3075714', Placa='AVU991' -> 'AVU991', Fecha=2025-06-03, Hora='10:39:00'
+2025-06-13 12:38:51,133 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-03:
+2025-06-13 12:38:51,134 - ContainerUpdater - INFO -   ✅ Registros actualizados: 7
+2025-06-13 12:38:51,134 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:51,135 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:51,135 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 438
+2025-06-13 12:38:51,135 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 3
+2025-06-13 12:38:51,136 - ContainerUpdater - INFO - Día 03 completado: 7 actualizaciones
+2025-06-13 12:38:51,136 - ContainerUpdater - INFO - Procesando día: 04
+2025-06-13 12:38:51,136 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-04 (de SALIDA_2025_06.xlsx, hoja 04)
+2025-06-13 12:38:51,137 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 04
+2025-06-13 12:38:51,202 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:51,265 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-13 12:38:51,269 - ContainerUpdater - INFO - Diccionario creado para 2025-06-04: 11 entradas válidas
+2025-06-13 12:38:51,269 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:51,278 - ContainerUpdater - INFO - Registros candidatos para actualización: 1366
+2025-06-13 12:38:51,304 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1841: Contenedor='MEDU1381100' -> 'MEDU1381100', Placa='AXJ992' -> 'AXJ992', Fecha=2025-06-04, Hora='14:19:00'
+2025-06-13 12:38:51,305 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1842: Contenedor='FANU3189790' -> 'FANU3189790', Placa='C3H980' -> 'C3H980', Fecha=2025-06-04, Hora='10:37:00'
+2025-06-13 12:38:51,306 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1843: Contenedor='HAMU3030050' -> 'HAMU3030050', Placa='C4J997' -> 'C4J997', Fecha=2025-06-04, Hora='12:21:00'
+2025-06-13 12:38:51,307 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1844: Contenedor='TCNU3620530' -> 'TCNU3620530', Placa='D8L974' -> 'D8L974', Fecha=2025-06-04, Hora='12:45:00'
+2025-06-13 12:38:51,308 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1845: Contenedor='TCKU6780754' -> 'TCKU6780754', Placa='T5T982' -> 'T5T982', Fecha=2025-06-04, Hora='11:16:00'
+2025-06-13 12:38:51,316 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-04:
+2025-06-13 12:38:51,317 - ContainerUpdater - INFO -   ✅ Registros actualizados: 11
+2025-06-13 12:38:51,317 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:51,318 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:51,319 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 427
+2025-06-13 12:38:51,319 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 3
+2025-06-13 12:38:51,319 - ContainerUpdater - INFO - Día 04 completado: 11 actualizaciones
+2025-06-13 12:38:51,320 - ContainerUpdater - INFO - Procesando día: 05
+2025-06-13 12:38:51,320 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-05 (de SALIDA_2025_06.xlsx, hoja 05)
+2025-06-13 12:38:51,320 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 05
+2025-06-13 12:38:51,396 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:51,461 - ContainerUpdater - INFO - Archivo exportación cargado: 11 registros válidos
+2025-06-13 12:38:51,465 - ContainerUpdater - INFO - Diccionario creado para 2025-06-05: 11 entradas válidas
+2025-06-13 12:38:51,466 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:51,476 - ContainerUpdater - INFO - Registros candidatos para actualización: 1355
+2025-06-13 12:38:51,502 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1855: Contenedor='MSDU2750920' -> 'MSDU2750920', Placa='AHW978' -> 'AHW978', Fecha=2025-06-05, Hora='12:07:00'
+2025-06-13 12:38:51,504 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1856: Contenedor='MSNU2466560' -> 'MSNU2466560', Placa='C7G984' -> 'C7G984', Fecha=2025-06-05, Hora='12:18:00'
+2025-06-13 12:38:51,505 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1857: Contenedor='MSDU1939502' -> 'MSDU1939502', Placa='C7G984' -> 'C7G984', Fecha=2025-06-05, Hora='18:45:00'
+2025-06-13 12:38:51,506 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1858: Contenedor='MSMU2037345' -> 'MSMU2037345', Placa='AHW978' -> 'AHW978', Fecha=2025-06-05, Hora='18:40:00'
+2025-06-13 12:38:51,507 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1859: Contenedor='TLLU3428853' -> 'TLLU3428853', Placa='C8V970' -> 'C8V970', Fecha=2025-06-05, Hora='19:13:00'
+2025-06-13 12:38:51,514 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-05:
+2025-06-13 12:38:51,514 - ContainerUpdater - INFO -   ✅ Registros actualizados: 10
+2025-06-13 12:38:51,515 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:51,515 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:51,515 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 419
+2025-06-13 12:38:51,516 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 1
+2025-06-13 12:38:51,516 - ContainerUpdater - INFO - Día 05 completado: 10 actualizaciones
+2025-06-13 12:38:51,516 - ContainerUpdater - INFO - Procesando día: 06
+2025-06-13 12:38:51,517 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-06 (de SALIDA_2025_06.xlsx, hoja 06)
+2025-06-13 12:38:51,517 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 06
+2025-06-13 12:38:51,584 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:51,660 - ContainerUpdater - INFO - Archivo exportación cargado: 25 registros válidos
+2025-06-13 12:38:51,666 - ContainerUpdater - INFO - Diccionario creado para 2025-06-06: 25 entradas válidas
+2025-06-13 12:38:51,666 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:51,674 - ContainerUpdater - INFO - Registros candidatos para actualización: 1345
+2025-06-13 12:38:51,702 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1868: Contenedor='FCIU3805816' -> 'FCIU3805816', Placa='A4E988' -> 'A4E988', Fecha=2025-06-06, Hora='19:07:00'
+2025-06-13 12:38:51,703 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1869: Contenedor='FCIU3805816' -> 'FCIU3805816', Placa='A4E988' -> 'A4E988', Fecha=2025-06-06, Hora='19:07:00'
+2025-06-13 12:38:51,704 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1870: Contenedor='MSNU1414134' -> 'MSNU1414134', Placa='C8V970' -> 'C8V970', Fecha=2025-06-06, Hora='12:22:00'
+2025-06-13 12:38:51,705 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1871: Contenedor='TCKU1676407' -> 'TCKU1676407', Placa='C7G985' -> 'C7G985', Fecha=2025-06-06, Hora='12:13:00'
+2025-06-13 12:38:51,706 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1872: Contenedor='MRSU0368935' -> 'MRSU0368935', Placa='T5T982' -> 'T5T982', Fecha=2025-06-06, Hora='12:50:00'
+2025-06-13 12:38:51,714 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-06:
+2025-06-13 12:38:51,715 - ContainerUpdater - INFO -   ✅ Registros actualizados: 25
+2025-06-13 12:38:51,715 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:51,716 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:51,716 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 389
+2025-06-13 12:38:51,717 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 6
+2025-06-13 12:38:51,717 - ContainerUpdater - INFO - Día 06 completado: 25 actualizaciones
+2025-06-13 12:38:51,717 - ContainerUpdater - INFO - Procesando día: 07
+2025-06-13 12:38:51,718 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-07 (de SALIDA_2025_06.xlsx, hoja 07)
+2025-06-13 12:38:51,718 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 07
+2025-06-13 12:38:51,773 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 07: Worksheet named '07' not found
+2025-06-13 12:38:51,774 - ContainerUpdater - ERROR - Error procesando día 07: Worksheet named '07' not found
+2025-06-13 12:38:51,774 - ContainerUpdater - INFO - Procesando día: 08
+2025-06-13 12:38:51,775 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-08 (de SALIDA_2025_06.xlsx, hoja 08)
+2025-06-13 12:38:51,775 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 08
+2025-06-13 12:38:51,828 - ContainerUpdater - ERROR - Error cargando archivo exportación C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja 08: Worksheet named '08' not found
+2025-06-13 12:38:51,829 - ContainerUpdater - ERROR - Error procesando día 08: Worksheet named '08' not found
+2025-06-13 12:38:51,829 - ContainerUpdater - INFO - Procesando día: 09
+2025-06-13 12:38:51,830 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-09 (de SALIDA_2025_06.xlsx, hoja 09)
+2025-06-13 12:38:51,830 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 09
+2025-06-13 12:38:51,902 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:51,971 - ContainerUpdater - INFO - Archivo exportación cargado: 32 registros válidos
+2025-06-13 12:38:51,977 - ContainerUpdater - INFO - Diccionario creado para 2025-06-09: 32 entradas válidas
+2025-06-13 12:38:51,978 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:51,987 - ContainerUpdater - INFO - Registros candidatos para actualización: 1320
+2025-06-13 12:38:52,013 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1901: Contenedor='HLXU1356030' -> 'HLXU1356030', Placa='A3W996' -> 'A3W996', Fecha=2025-06-09, Hora='10:48:00'
+2025-06-13 12:38:52,014 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1902: Contenedor='CAIU6675765' -> 'CAIU6675765', Placa='A6B981' -> 'A6B981', Fecha=2025-06-09, Hora='11:52:00'
+2025-06-13 12:38:52,015 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1903: Contenedor='CAIU3298061' -> 'CAIU3298061', Placa='C4J997' -> 'C4J997', Fecha=2025-06-09, Hora='12:02:00'
+2025-06-13 12:38:52,016 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1905: Contenedor='UACU4064171' -> 'UACU4064171', Placa='A4E988' -> 'A4E988', Fecha=2025-06-09, Hora='16:34:00'
+2025-06-13 12:38:52,017 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1906: Contenedor='HLBU3826937' -> 'HLBU3826937', Placa='F8Q990' -> 'F8Q990', Fecha=2025-06-09, Hora='22:55:00'
+2025-06-13 12:38:52,025 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-09:
+2025-06-13 12:38:52,025 - ContainerUpdater - INFO -   ✅ Registros actualizados: 30
+2025-06-13 12:38:52,026 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:52,026 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:52,027 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 356
+2025-06-13 12:38:52,027 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 9
+2025-06-13 12:38:52,027 - ContainerUpdater - INFO - Día 09 completado: 30 actualizaciones
+2025-06-13 12:38:52,028 - ContainerUpdater - INFO - Procesando día: 10
+2025-06-13 12:38:52,028 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-10 (de SALIDA_2025_06.xlsx, hoja 10)
+2025-06-13 12:38:52,028 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 10
+2025-06-13 12:38:52,094 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:52,249 - ContainerUpdater - INFO - Archivo exportación cargado: 16 registros válidos
+2025-06-13 12:38:52,255 - ContainerUpdater - INFO - Diccionario creado para 2025-06-10: 16 entradas válidas
+2025-06-13 12:38:52,256 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:52,266 - ContainerUpdater - INFO - Registros candidatos para actualización: 1290
+2025-06-13 12:38:52,292 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1949: Contenedor='TEMU321126-0' -> 'TEMU3211260', Placa='C5A995' -> 'C5A995', Fecha=2025-06-10, Hora='16:02:00'
+2025-06-13 12:38:52,293 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1950: Contenedor='ONEU1815149' -> 'ONEU1815149', Placa='A5Z977' -> 'A5Z977', Fecha=2025-06-10, Hora='14:48:00'
+2025-06-13 12:38:52,294 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1951: Contenedor='ONEU0161953' -> 'ONEU0161953', Placa='A6X988' -> 'A6X988', Fecha=2025-06-10, Hora='14:35:00'
+2025-06-13 12:38:52,295 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1952: Contenedor='ONEU0287480' -> 'ONEU0287480', Placa='B2Z977' -> 'B2Z977', Fecha=2025-06-10, Hora='15:52:00'
+2025-06-13 12:38:52,296 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1954: Contenedor='YMMU7005803' -> 'YMMU7005803', Placa='A3M988' -> 'A3M988', Fecha=2025-06-10, Hora='14:23:00'
+2025-06-13 12:38:52,300 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-10:
+2025-06-13 12:38:52,301 - ContainerUpdater - INFO -   ✅ Registros actualizados: 14
+2025-06-13 12:38:52,301 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:52,302 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:52,302 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 349
+2025-06-13 12:38:52,302 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:38:52,303 - ContainerUpdater - INFO - Día 10 completado: 14 actualizaciones
+2025-06-13 12:38:52,303 - ContainerUpdater - INFO - Procesando día: 11
+2025-06-13 12:38:52,303 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-11 (de SALIDA_2025_06.xlsx, hoja 11)
+2025-06-13 12:38:52,303 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 11
+2025-06-13 12:38:52,369 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:52,438 - ContainerUpdater - INFO - Archivo exportación cargado: 15 registros válidos
+2025-06-13 12:38:52,442 - ContainerUpdater - INFO - Diccionario creado para 2025-06-11: 15 entradas válidas
+2025-06-13 12:38:52,443 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:52,452 - ContainerUpdater - INFO - Registros candidatos para actualización: 1276
+2025-06-13 12:38:52,481 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1966: Contenedor='TTNU1264599' -> 'TTNU1264599', Placa='B2P978' -> 'B2P978', Fecha=2025-06-11, Hora='19:58:00'
+2025-06-13 12:38:52,482 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1967: Contenedor='SUDU7340634' -> 'SUDU7340634', Placa='B8U978' -> 'B8U978', Fecha=2025-06-11, Hora='18:44:00'
+2025-06-13 12:38:52,483 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1968: Contenedor='MRKU7748364' -> 'MRKU7748364', Placa='AFU989' -> 'AFU989', Fecha=2025-06-11, Hora='18:10:00'
+2025-06-13 12:38:52,484 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1969: Contenedor='MRKU6952521' -> 'MRKU6952521', Placa='F5U988' -> 'F5U988', Fecha=2025-06-11, Hora='19:44:00'
+2025-06-13 12:38:52,484 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1970: Contenedor='MRKU9456802' -> 'MRKU9456802', Placa='A3M988' -> 'A3M988', Fecha=2025-06-11, Hora='16:49:00'
+2025-06-13 12:38:52,487 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-11:
+2025-06-13 12:38:52,488 - ContainerUpdater - INFO -   ✅ Registros actualizados: 13
+2025-06-13 12:38:52,489 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:52,489 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:52,489 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 334
+2025-06-13 12:38:52,489 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 4
+2025-06-13 12:38:52,490 - ContainerUpdater - INFO - Día 11 completado: 13 actualizaciones
+2025-06-13 12:38:52,490 - ContainerUpdater - INFO - Procesando día: 12
+2025-06-13 12:38:52,491 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-12 (de SALIDA_2025_06.xlsx, hoja 12)
+2025-06-13 12:38:52,491 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 12
+2025-06-13 12:38:52,562 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:52,626 - ContainerUpdater - INFO - Archivo exportación cargado: 9 registros válidos
+2025-06-13 12:38:52,629 - ContainerUpdater - INFO - Diccionario creado para 2025-06-12: 9 entradas válidas
+2025-06-13 12:38:52,629 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:52,639 - ContainerUpdater - INFO - Registros candidatos para actualización: 1263
+2025-06-13 12:38:52,669 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1991: Contenedor='SUDU7699244' -> 'SUDU7699244', Placa='A4E988' -> 'A4E988', Fecha=2025-06-12, Hora='11:19:00'
+2025-06-13 12:38:52,670 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1992: Contenedor='MRKU8542470' -> 'MRKU8542470', Placa='B2Z977' -> 'B2Z977', Fecha=2025-06-12, Hora='14:42:00'
+2025-06-13 12:38:52,671 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1993: Contenedor='MRSU0061091' -> 'MRSU0061091', Placa='F8P975' -> 'F8P975', Fecha=2025-06-12, Hora='15:18:00'
+2025-06-13 12:38:52,672 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1994: Contenedor='MRKU7653715' -> 'MRKU7653715', Placa='ADG992' -> 'ADG992', Fecha=2025-06-12, Hora='17:19:00'
+2025-06-13 12:38:52,673 - ContainerUpdater - INFO - ✅ ACTUALIZADO fila 1995: Contenedor='SUDU7877198' -> 'SUDU7877198', Placa='B9L983' -> 'B9L983', Fecha=2025-06-12, Hora='17:48:00'
+2025-06-13 12:38:52,674 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-12:
+2025-06-13 12:38:52,674 - ContainerUpdater - INFO -   ✅ Registros actualizados: 7
+2025-06-13 12:38:52,675 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:52,675 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:52,675 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 329
+2025-06-13 12:38:52,676 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 2
+2025-06-13 12:38:52,676 - ContainerUpdater - INFO - Día 12 completado: 7 actualizaciones
+2025-06-13 12:38:52,676 - ContainerUpdater - INFO - Procesando día: 13
+2025-06-13 12:38:52,676 - ContainerUpdater - INFO - Fecha objetivo extraída: 2025-06-13 (de SALIDA_2025_06.xlsx, hoja 13)
+2025-06-13 12:38:52,677 - ContainerUpdater - INFO - Cargando archivo exportación: C:\Users\jrivas\Documents\Data 1306\SALIDA_2025_06.xlsx, hoja: 13
+2025-06-13 12:38:52,748 - ContainerUpdater - INFO - Encabezados encontrados en fila 4 (5/6 coincidencias)
+2025-06-13 12:38:52,821 - ContainerUpdater - INFO - Archivo exportación cargado: 2 registros válidos
+2025-06-13 12:38:52,823 - ContainerUpdater - INFO - Diccionario creado para 2025-06-13: 2 entradas válidas
+2025-06-13 12:38:52,823 - ContainerUpdater - INFO - Omitidos: 0 sin contenedor, 0 sin placa, 0 sin hora
+2025-06-13 12:38:52,832 - ContainerUpdater - INFO - Registros candidatos para actualización: 1256
+2025-06-13 12:38:52,860 - ContainerUpdater - INFO - RESUMEN DE ACTUALIZACIÓN PARA 2025-06-13:
+2025-06-13 12:38:52,861 - ContainerUpdater - INFO -   ✅ Registros actualizados: 0
+2025-06-13 12:38:52,861 - ContainerUpdater - INFO -   ⏭️  Omitidos sin contenedor: 925
+2025-06-13 12:38:52,862 - ContainerUpdater - INFO -   ⏭️  Omitidos sin placa: 0
+2025-06-13 12:38:52,862 - ContainerUpdater - INFO -   📅 Omitidos por fecha incorrecta: 331
+2025-06-13 12:38:52,863 - ContainerUpdater - INFO -   ❌ Sin match encontrado: 0
+2025-06-13 12:38:52,863 - ContainerUpdater - INFO - Día 13 completado: 0 actualizaciones
+2025-06-13 12:38:56,855 - ContainerUpdater - INFO - Archivo guardado: C:\Users\jrivas\Documents\Data 1306\Lead time OQ1 Exportaciones 2025_ACTUALIZADO_20250613_123852.xlsx
+2025-06-13 12:38:56,857 - ContainerUpdater - INFO - Procesamiento completado. Total de actualizaciones: 135
